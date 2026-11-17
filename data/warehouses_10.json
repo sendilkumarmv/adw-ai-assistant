@@ -1,0 +1,42 @@
+[
+  {
+    "warehouseId": "WH-01",
+    "name": "Warehouse 1"
+  },
+  {
+    "warehouseId": "WH-02",
+    "name": "Warehouse 2"
+  },
+  {
+    "warehouseId": "WH-03",
+    "name": "Warehouse 3"
+  },
+  {
+    "warehouseId": "WH-04",
+    "name": "Warehouse 4"
+  },
+  {
+    "warehouseId": "WH-05",
+    "name": "Warehouse 5"
+  },
+  {
+    "warehouseId": "WH-06",
+    "name": "Warehouse 6"
+  },
+  {
+    "warehouseId": "WH-07",
+    "name": "Warehouse 7"
+  },
+  {
+    "warehouseId": "WH-08",
+    "name": "Warehouse 8"
+  },
+  {
+    "warehouseId": "WH-09",
+    "name": "Warehouse 9"
+  },
+  {
+    "warehouseId": "WH-10",
+    "name": "Warehouse 10"
+  }
+]

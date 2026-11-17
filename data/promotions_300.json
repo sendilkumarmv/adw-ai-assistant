@@ -1,0 +1,1202 @@
+[
+  {
+    "promotionId": "PRM0001",
+    "discountPercent": 6
+  },
+  {
+    "promotionId": "PRM0002",
+    "discountPercent": 47
+  },
+  {
+    "promotionId": "PRM0003",
+    "discountPercent": 28
+  },
+  {
+    "promotionId": "PRM0004",
+    "discountPercent": 22
+  },
+  {
+    "promotionId": "PRM0005",
+    "discountPercent": 47
+  },
+  {
+    "promotionId": "PRM0006",
+    "discountPercent": 29
+  },
+  {
+    "promotionId": "PRM0007",
+    "discountPercent": 32
+  },
+  {
+    "promotionId": "PRM0008",
+    "discountPercent": 8
+  },
+  {
+    "promotionId": "PRM0009",
+    "discountPercent": 17
+  },
+  {
+    "promotionId": "PRM0010",
+    "discountPercent": 25
+  },
+  {
+    "promotionId": "PRM0011",
+    "discountPercent": 17
+  },
+  {
+    "promotionId": "PRM0012",
+    "discountPercent": 27
+  },
+  {
+    "promotionId": "PRM0013",
+    "discountPercent": 19
+  },
+  {
+    "promotionId": "PRM0014",
+    "discountPercent": 31
+  },
+  {
+    "promotionId": "PRM0015",
+    "discountPercent": 30
+  },
+  {
+    "promotionId": "PRM0016",
+    "discountPercent": 19
+  },
+  {
+    "promotionId": "PRM0017",
+    "discountPercent": 29
+  },
+  {
+    "promotionId": "PRM0018",
+    "discountPercent": 35
+  },
+  {
+    "promotionId": "PRM0019",
+    "discountPercent": 19
+  },
+  {
+    "promotionId": "PRM0020",
+    "discountPercent": 29
+  },
+  {
+    "promotionId": "PRM0021",
+    "discountPercent": 30
+  },
+  {
+    "promotionId": "PRM0022",
+    "discountPercent": 32
+  },
+  {
+    "promotionId": "PRM0023",
+    "discountPercent": 8
+  },
+  {
+    "promotionId": "PRM0024",
+    "discountPercent": 36
+  },
+  {
+    "promotionId": "PRM0025",
+    "discountPercent": 35
+  },
+  {
+    "promotionId": "PRM0026",
+    "discountPercent": 5
+  },
+  {
+    "promotionId": "PRM0027",
+    "discountPercent": 11
+  },
+  {
+    "promotionId": "PRM0028",
+    "discountPercent": 7
+  },
+  {
+    "promotionId": "PRM0029",
+    "discountPercent": 26
+  },
+  {
+    "promotionId": "PRM0030",
+    "discountPercent": 6
+  },
+  {
+    "promotionId": "PRM0031",
+    "discountPercent": 18
+  },
+  {
+    "promotionId": "PRM0032",
+    "discountPercent": 13
+  },
+  {
+    "promotionId": "PRM0033",
+    "discountPercent": 42
+  },
+  {
+    "promotionId": "PRM0034",
+    "discountPercent": 17
+  },
+  {
+    "promotionId": "PRM0035",
+    "discountPercent": 47
+  },
+  {
+    "promotionId": "PRM0036",
+    "discountPercent": 9
+  },
+  {
+    "promotionId": "PRM0037",
+    "discountPercent": 13
+  },
+  {
+    "promotionId": "PRM0038",
+    "discountPercent": 39
+  },
+  {
+    "promotionId": "PRM0039",
+    "discountPercent": 38
+  },
+  {
+    "promotionId": "PRM0040",
+    "discountPercent": 28
+  },
+  {
+    "promotionId": "PRM0041",
+    "discountPercent": 22
+  },
+  {
+    "promotionId": "PRM0042",
+    "discountPercent": 47
+  },
+  {
+    "promotionId": "PRM0043",
+    "discountPercent": 40
+  },
+  {
+    "promotionId": "PRM0044",
+    "discountPercent": 16
+  },
+  {
+    "promotionId": "PRM0045",
+    "discountPercent": 27
+  },
+  {
+    "promotionId": "PRM0046",
+    "discountPercent": 12
+  },
+  {
+    "promotionId": "PRM0047",
+    "discountPercent": 29
+  },
+  {
+    "promotionId": "PRM0048",
+    "discountPercent": 25
+  },
+  {
+    "promotionId": "PRM0049",
+    "discountPercent": 30
+  },
+  {
+    "promotionId": "PRM0050",
+    "discountPercent": 38
+  },
+  {
+    "promotionId": "PRM0051",
+    "discountPercent": 42
+  },
+  {
+    "promotionId": "PRM0052",
+    "discountPercent": 45
+  },
+  {
+    "promotionId": "PRM0053",
+    "discountPercent": 48
+  },
+  {
+    "promotionId": "PRM0054",
+    "discountPercent": 14
+  },
+  {
+    "promotionId": "PRM0055",
+    "discountPercent": 42
+  },
+  {
+    "promotionId": "PRM0056",
+    "discountPercent": 48
+  },
+  {
+    "promotionId": "PRM0057",
+    "discountPercent": 41
+  },
+  {
+    "promotionId": "PRM0058",
+    "discountPercent": 47
+  },
+  {
+    "promotionId": "PRM0059",
+    "discountPercent": 20
+  },
+  {
+    "promotionId": "PRM0060",
+    "discountPercent": 23
+  },
+  {
+    "promotionId": "PRM0061",
+    "discountPercent": 27
+  },
+  {
+    "promotionId": "PRM0062",
+    "discountPercent": 39
+  },
+  {
+    "promotionId": "PRM0063",
+    "discountPercent": 23
+  },
+  {
+    "promotionId": "PRM0064",
+    "discountPercent": 19
+  },
+  {
+    "promotionId": "PRM0065",
+    "discountPercent": 12
+  },
+  {
+    "promotionId": "PRM0066",
+    "discountPercent": 49
+  },
+  {
+    "promotionId": "PRM0067",
+    "discountPercent": 42
+  },
+  {
+    "promotionId": "PRM0068",
+    "discountPercent": 13
+  },
+  {
+    "promotionId": "PRM0069",
+    "discountPercent": 44
+  },
+  {
+    "promotionId": "PRM0070",
+    "discountPercent": 49
+  },
+  {
+    "promotionId": "PRM0071",
+    "discountPercent": 19
+  },
+  {
+    "promotionId": "PRM0072",
+    "discountPercent": 50
+  },
+  {
+    "promotionId": "PRM0073",
+    "discountPercent": 43
+  },
+  {
+    "promotionId": "PRM0074",
+    "discountPercent": 29
+  },
+  {
+    "promotionId": "PRM0075",
+    "discountPercent": 49
+  },
+  {
+    "promotionId": "PRM0076",
+    "discountPercent": 30
+  },
+  {
+    "promotionId": "PRM0077",
+    "discountPercent": 5
+  },
+  {
+    "promotionId": "PRM0078",
+    "discountPercent": 10
+  },
+  {
+    "promotionId": "PRM0079",
+    "discountPercent": 12
+  },
+  {
+    "promotionId": "PRM0080",
+    "discountPercent": 32
+  },
+  {
+    "promotionId": "PRM0081",
+    "discountPercent": 14
+  },
+  {
+    "promotionId": "PRM0082",
+    "discountPercent": 6
+  },
+  {
+    "promotionId": "PRM0083",
+    "discountPercent": 39
+  },
+  {
+    "promotionId": "PRM0084",
+    "discountPercent": 32
+  },
+  {
+    "promotionId": "PRM0085",
+    "discountPercent": 27
+  },
+  {
+    "promotionId": "PRM0086",
+    "discountPercent": 33
+  },
+  {
+    "promotionId": "PRM0087",
+    "discountPercent": 14
+  },
+  {
+    "promotionId": "PRM0088",
+    "discountPercent": 36
+  },
+  {
+    "promotionId": "PRM0089",
+    "discountPercent": 17
+  },
+  {
+    "promotionId": "PRM0090",
+    "discountPercent": 26
+  },
+  {
+    "promotionId": "PRM0091",
+    "discountPercent": 34
+  },
+  {
+    "promotionId": "PRM0092",
+    "discountPercent": 39
+  },
+  {
+    "promotionId": "PRM0093",
+    "discountPercent": 9
+  },
+  {
+    "promotionId": "PRM0094",
+    "discountPercent": 43
+  },
+  {
+    "promotionId": "PRM0095",
+    "discountPercent": 7
+  },
+  {
+    "promotionId": "PRM0096",
+    "discountPercent": 21
+  },
+  {
+    "promotionId": "PRM0097",
+    "discountPercent": 12
+  },
+  {
+    "promotionId": "PRM0098",
+    "discountPercent": 21
+  },
+  {
+    "promotionId": "PRM0099",
+    "discountPercent": 35
+  },
+  {
+    "promotionId": "PRM0100",
+    "discountPercent": 6
+  },
+  {
+    "promotionId": "PRM0101",
+    "discountPercent": 47
+  },
+  {
+    "promotionId": "PRM0102",
+    "discountPercent": 38
+  },
+  {
+    "promotionId": "PRM0103",
+    "discountPercent": 45
+  },
+  {
+    "promotionId": "PRM0104",
+    "discountPercent": 41
+  },
+  {
+    "promotionId": "PRM0105",
+    "discountPercent": 22
+  },
+  {
+    "promotionId": "PRM0106",
+    "discountPercent": 50
+  },
+  {
+    "promotionId": "PRM0107",
+    "discountPercent": 9
+  },
+  {
+    "promotionId": "PRM0108",
+    "discountPercent": 7
+  },
+  {
+    "promotionId": "PRM0109",
+    "discountPercent": 12
+  },
+  {
+    "promotionId": "PRM0110",
+    "discountPercent": 32
+  },
+  {
+    "promotionId": "PRM0111",
+    "discountPercent": 44
+  },
+  {
+    "promotionId": "PRM0112",
+    "discountPercent": 48
+  },
+  {
+    "promotionId": "PRM0113",
+    "discountPercent": 38
+  },
+  {
+    "promotionId": "PRM0114",
+    "discountPercent": 33
+  },
+  {
+    "promotionId": "PRM0115",
+    "discountPercent": 10
+  },
+  {
+    "promotionId": "PRM0116",
+    "discountPercent": 41
+  },
+  {
+    "promotionId": "PRM0117",
+    "discountPercent": 21
+  },
+  {
+    "promotionId": "PRM0118",
+    "discountPercent": 8
+  },
+  {
+    "promotionId": "PRM0119",
+    "discountPercent": 5
+  },
+  {
+    "promotionId": "PRM0120",
+    "discountPercent": 17
+  },
+  {
+    "promotionId": "PRM0121",
+    "discountPercent": 37
+  },
+  {
+    "promotionId": "PRM0122",
+    "discountPercent": 42
+  },
+  {
+    "promotionId": "PRM0123",
+    "discountPercent": 18
+  },
+  {
+    "promotionId": "PRM0124",
+    "discountPercent": 9
+  },
+  {
+    "promotionId": "PRM0125",
+    "discountPercent": 46
+  },
+  {
+    "promotionId": "PRM0126",
+    "discountPercent": 42
+  },
+  {
+    "promotionId": "PRM0127",
+    "discountPercent": 50
+  },
+  {
+    "promotionId": "PRM0128",
+    "discountPercent": 20
+  },
+  {
+    "promotionId": "PRM0129",
+    "discountPercent": 22
+  },
+  {
+    "promotionId": "PRM0130",
+    "discountPercent": 39
+  },
+  {
+    "promotionId": "PRM0131",
+    "discountPercent": 14
+  },
+  {
+    "promotionId": "PRM0132",
+    "discountPercent": 5
+  },
+  {
+    "promotionId": "PRM0133",
+    "discountPercent": 39
+  },
+  {
+    "promotionId": "PRM0134",
+    "discountPercent": 45
+  },
+  {
+    "promotionId": "PRM0135",
+    "discountPercent": 28
+  },
+  {
+    "promotionId": "PRM0136",
+    "discountPercent": 6
+  },
+  {
+    "promotionId": "PRM0137",
+    "discountPercent": 28
+  },
+  {
+    "promotionId": "PRM0138",
+    "discountPercent": 18
+  },
+  {
+    "promotionId": "PRM0139",
+    "discountPercent": 16
+  },
+  {
+    "promotionId": "PRM0140",
+    "discountPercent": 14
+  },
+  {
+    "promotionId": "PRM0141",
+    "discountPercent": 9
+  },
+  {
+    "promotionId": "PRM0142",
+    "discountPercent": 29
+  },
+  {
+    "promotionId": "PRM0143",
+    "discountPercent": 47
+  },
+  {
+    "promotionId": "PRM0144",
+    "discountPercent": 16
+  },
+  {
+    "promotionId": "PRM0145",
+    "discountPercent": 26
+  },
+  {
+    "promotionId": "PRM0146",
+    "discountPercent": 10
+  },
+  {
+    "promotionId": "PRM0147",
+    "discountPercent": 26
+  },
+  {
+    "promotionId": "PRM0148",
+    "discountPercent": 40
+  },
+  {
+    "promotionId": "PRM0149",
+    "discountPercent": 15
+  },
+  {
+    "promotionId": "PRM0150",
+    "discountPercent": 16
+  },
+  {
+    "promotionId": "PRM0151",
+    "discountPercent": 20
+  },
+  {
+    "promotionId": "PRM0152",
+    "discountPercent": 18
+  },
+  {
+    "promotionId": "PRM0153",
+    "discountPercent": 42
+  },
+  {
+    "promotionId": "PRM0154",
+    "discountPercent": 31
+  },
+  {
+    "promotionId": "PRM0155",
+    "discountPercent": 30
+  },
+  {
+    "promotionId": "PRM0156",
+    "discountPercent": 9
+  },
+  {
+    "promotionId": "PRM0157",
+    "discountPercent": 19
+  },
+  {
+    "promotionId": "PRM0158",
+    "discountPercent": 27
+  },
+  {
+    "promotionId": "PRM0159",
+    "discountPercent": 5
+  },
+  {
+    "promotionId": "PRM0160",
+    "discountPercent": 49
+  },
+  {
+    "promotionId": "PRM0161",
+    "discountPercent": 17
+  },
+  {
+    "promotionId": "PRM0162",
+    "discountPercent": 44
+  },
+  {
+    "promotionId": "PRM0163",
+    "discountPercent": 10
+  },
+  {
+    "promotionId": "PRM0164",
+    "discountPercent": 12
+  },
+  {
+    "promotionId": "PRM0165",
+    "discountPercent": 7
+  },
+  {
+    "promotionId": "PRM0166",
+    "discountPercent": 35
+  },
+  {
+    "promotionId": "PRM0167",
+    "discountPercent": 15
+  },
+  {
+    "promotionId": "PRM0168",
+    "discountPercent": 14
+  },
+  {
+    "promotionId": "PRM0169",
+    "discountPercent": 24
+  },
+  {
+    "promotionId": "PRM0170",
+    "discountPercent": 38
+  },
+  {
+    "promotionId": "PRM0171",
+    "discountPercent": 36
+  },
+  {
+    "promotionId": "PRM0172",
+    "discountPercent": 9
+  },
+  {
+    "promotionId": "PRM0173",
+    "discountPercent": 12
+  },
+  {
+    "promotionId": "PRM0174",
+    "discountPercent": 14
+  },
+  {
+    "promotionId": "PRM0175",
+    "discountPercent": 43
+  },
+  {
+    "promotionId": "PRM0176",
+    "discountPercent": 6
+  },
+  {
+    "promotionId": "PRM0177",
+    "discountPercent": 20
+  },
+  {
+    "promotionId": "PRM0178",
+    "discountPercent": 37
+  },
+  {
+    "promotionId": "PRM0179",
+    "discountPercent": 11
+  },
+  {
+    "promotionId": "PRM0180",
+    "discountPercent": 33
+  },
+  {
+    "promotionId": "PRM0181",
+    "discountPercent": 31
+  },
+  {
+    "promotionId": "PRM0182",
+    "discountPercent": 44
+  },
+  {
+    "promotionId": "PRM0183",
+    "discountPercent": 25
+  },
+  {
+    "promotionId": "PRM0184",
+    "discountPercent": 32
+  },
+  {
+    "promotionId": "PRM0185",
+    "discountPercent": 41
+  },
+  {
+    "promotionId": "PRM0186",
+    "discountPercent": 36
+  },
+  {
+    "promotionId": "PRM0187",
+    "discountPercent": 49
+  },
+  {
+    "promotionId": "PRM0188",
+    "discountPercent": 27
+  },
+  {
+    "promotionId": "PRM0189",
+    "discountPercent": 30
+  },
+  {
+    "promotionId": "PRM0190",
+    "discountPercent": 12
+  },
+  {
+    "promotionId": "PRM0191",
+    "discountPercent": 29
+  },
+  {
+    "promotionId": "PRM0192",
+    "discountPercent": 18
+  },
+  {
+    "promotionId": "PRM0193",
+    "discountPercent": 46
+  },
+  {
+    "promotionId": "PRM0194",
+    "discountPercent": 31
+  },
+  {
+    "promotionId": "PRM0195",
+    "discountPercent": 48
+  },
+  {
+    "promotionId": "PRM0196",
+    "discountPercent": 21
+  },
+  {
+    "promotionId": "PRM0197",
+    "discountPercent": 46
+  },
+  {
+    "promotionId": "PRM0198",
+    "discountPercent": 37
+  },
+  {
+    "promotionId": "PRM0199",
+    "discountPercent": 30
+  },
+  {
+    "promotionId": "PRM0200",
+    "discountPercent": 30
+  },
+  {
+    "promotionId": "PRM0201",
+    "discountPercent": 5
+  },
+  {
+    "promotionId": "PRM0202",
+    "discountPercent": 30
+  },
+  {
+    "promotionId": "PRM0203",
+    "discountPercent": 28
+  },
+  {
+    "promotionId": "PRM0204",
+    "discountPercent": 8
+  },
+  {
+    "promotionId": "PRM0205",
+    "discountPercent": 21
+  },
+  {
+    "promotionId": "PRM0206",
+    "discountPercent": 39
+  },
+  {
+    "promotionId": "PRM0207",
+    "discountPercent": 6
+  },
+  {
+    "promotionId": "PRM0208",
+    "discountPercent": 9
+  },
+  {
+    "promotionId": "PRM0209",
+    "discountPercent": 19
+  },
+  {
+    "promotionId": "PRM0210",
+    "discountPercent": 22
+  },
+  {
+    "promotionId": "PRM0211",
+    "discountPercent": 47
+  },
+  {
+    "promotionId": "PRM0212",
+    "discountPercent": 41
+  },
+  {
+    "promotionId": "PRM0213",
+    "discountPercent": 25
+  },
+  {
+    "promotionId": "PRM0214",
+    "discountPercent": 41
+  },
+  {
+    "promotionId": "PRM0215",
+    "discountPercent": 34
+  },
+  {
+    "promotionId": "PRM0216",
+    "discountPercent": 48
+  },
+  {
+    "promotionId": "PRM0217",
+    "discountPercent": 14
+  },
+  {
+    "promotionId": "PRM0218",
+    "discountPercent": 48
+  },
+  {
+    "promotionId": "PRM0219",
+    "discountPercent": 24
+  },
+  {
+    "promotionId": "PRM0220",
+    "discountPercent": 20
+  },
+  {
+    "promotionId": "PRM0221",
+    "discountPercent": 47
+  },
+  {
+    "promotionId": "PRM0222",
+    "discountPercent": 40
+  },
+  {
+    "promotionId": "PRM0223",
+    "discountPercent": 37
+  },
+  {
+    "promotionId": "PRM0224",
+    "discountPercent": 16
+  },
+  {
+    "promotionId": "PRM0225",
+    "discountPercent": 17
+  },
+  {
+    "promotionId": "PRM0226",
+    "discountPercent": 5
+  },
+  {
+    "promotionId": "PRM0227",
+    "discountPercent": 50
+  },
+  {
+    "promotionId": "PRM0228",
+    "discountPercent": 47
+  },
+  {
+    "promotionId": "PRM0229",
+    "discountPercent": 27
+  },
+  {
+    "promotionId": "PRM0230",
+    "discountPercent": 16
+  },
+  {
+    "promotionId": "PRM0231",
+    "discountPercent": 22
+  },
+  {
+    "promotionId": "PRM0232",
+    "discountPercent": 31
+  },
+  {
+    "promotionId": "PRM0233",
+    "discountPercent": 10
+  },
+  {
+    "promotionId": "PRM0234",
+    "discountPercent": 9
+  },
+  {
+    "promotionId": "PRM0235",
+    "discountPercent": 7
+  },
+  {
+    "promotionId": "PRM0236",
+    "discountPercent": 35
+  },
+  {
+    "promotionId": "PRM0237",
+    "discountPercent": 33
+  },
+  {
+    "promotionId": "PRM0238",
+    "discountPercent": 44
+  },
+  {
+    "promotionId": "PRM0239",
+    "discountPercent": 5
+  },
+  {
+    "promotionId": "PRM0240",
+    "discountPercent": 23
+  },
+  {
+    "promotionId": "PRM0241",
+    "discountPercent": 47
+  },
+  {
+    "promotionId": "PRM0242",
+    "discountPercent": 35
+  },
+  {
+    "promotionId": "PRM0243",
+    "discountPercent": 42
+  },
+  {
+    "promotionId": "PRM0244",
+    "discountPercent": 11
+  },
+  {
+    "promotionId": "PRM0245",
+    "discountPercent": 23
+  },
+  {
+    "promotionId": "PRM0246",
+    "discountPercent": 37
+  },
+  {
+    "promotionId": "PRM0247",
+    "discountPercent": 35
+  },
+  {
+    "promotionId": "PRM0248",
+    "discountPercent": 48
+  },
+  {
+    "promotionId": "PRM0249",
+    "discountPercent": 36
+  },
+  {
+    "promotionId": "PRM0250",
+    "discountPercent": 50
+  },
+  {
+    "promotionId": "PRM0251",
+    "discountPercent": 23
+  },
+  {
+    "promotionId": "PRM0252",
+    "discountPercent": 6
+  },
+  {
+    "promotionId": "PRM0253",
+    "discountPercent": 11
+  },
+  {
+    "promotionId": "PRM0254",
+    "discountPercent": 46
+  },
+  {
+    "promotionId": "PRM0255",
+    "discountPercent": 29
+  },
+  {
+    "promotionId": "PRM0256",
+    "discountPercent": 19
+  },
+  {
+    "promotionId": "PRM0257",
+    "discountPercent": 42
+  },
+  {
+    "promotionId": "PRM0258",
+    "discountPercent": 15
+  },
+  {
+    "promotionId": "PRM0259",
+    "discountPercent": 6
+  },
+  {
+    "promotionId": "PRM0260",
+    "discountPercent": 17
+  },
+  {
+    "promotionId": "PRM0261",
+    "discountPercent": 27
+  },
+  {
+    "promotionId": "PRM0262",
+    "discountPercent": 45
+  },
+  {
+    "promotionId": "PRM0263",
+    "discountPercent": 9
+  },
+  {
+    "promotionId": "PRM0264",
+    "discountPercent": 47
+  },
+  {
+    "promotionId": "PRM0265",
+    "discountPercent": 30
+  },
+  {
+    "promotionId": "PRM0266",
+    "discountPercent": 33
+  },
+  {
+    "promotionId": "PRM0267",
+    "discountPercent": 36
+  },
+  {
+    "promotionId": "PRM0268",
+    "discountPercent": 15
+  },
+  {
+    "promotionId": "PRM0269",
+    "discountPercent": 18
+  },
+  {
+    "promotionId": "PRM0270",
+    "discountPercent": 22
+  },
+  {
+    "promotionId": "PRM0271",
+    "discountPercent": 41
+  },
+  {
+    "promotionId": "PRM0272",
+    "discountPercent": 35
+  },
+  {
+    "promotionId": "PRM0273",
+    "discountPercent": 32
+  },
+  {
+    "promotionId": "PRM0274",
+    "discountPercent": 8
+  },
+  {
+    "promotionId": "PRM0275",
+    "discountPercent": 9
+  },
+  {
+    "promotionId": "PRM0276",
+    "discountPercent": 19
+  },
+  {
+    "promotionId": "PRM0277",
+    "discountPercent": 26
+  },
+  {
+    "promotionId": "PRM0278",
+    "discountPercent": 6
+  },
+  {
+    "promotionId": "PRM0279",
+    "discountPercent": 48
+  },
+  {
+    "promotionId": "PRM0280",
+    "discountPercent": 14
+  },
+  {
+    "promotionId": "PRM0281",
+    "discountPercent": 37
+  },
+  {
+    "promotionId": "PRM0282",
+    "discountPercent": 33
+  },
+  {
+    "promotionId": "PRM0283",
+    "discountPercent": 47
+  },
+  {
+    "promotionId": "PRM0284",
+    "discountPercent": 22
+  },
+  {
+    "promotionId": "PRM0285",
+    "discountPercent": 14
+  },
+  {
+    "promotionId": "PRM0286",
+    "discountPercent": 21
+  },
+  {
+    "promotionId": "PRM0287",
+    "discountPercent": 13
+  },
+  {
+    "promotionId": "PRM0288",
+    "discountPercent": 9
+  },
+  {
+    "promotionId": "PRM0289",
+    "discountPercent": 13
+  },
+  {
+    "promotionId": "PRM0290",
+    "discountPercent": 47
+  },
+  {
+    "promotionId": "PRM0291",
+    "discountPercent": 26
+  },
+  {
+    "promotionId": "PRM0292",
+    "discountPercent": 37
+  },
+  {
+    "promotionId": "PRM0293",
+    "discountPercent": 7
+  },
+  {
+    "promotionId": "PRM0294",
+    "discountPercent": 30
+  },
+  {
+    "promotionId": "PRM0295",
+    "discountPercent": 28
+  },
+  {
+    "promotionId": "PRM0296",
+    "discountPercent": 9
+  },
+  {
+    "promotionId": "PRM0297",
+    "discountPercent": 16
+  },
+  {
+    "promotionId": "PRM0298",
+    "discountPercent": 26
+  },
+  {
+    "promotionId": "PRM0299",
+    "discountPercent": 48
+  },
+  {
+    "promotionId": "PRM0300",
+    "discountPercent": 26
+  }
+]
