@@ -9,17 +9,27 @@ from openai import OpenAI
 # --- Load environment variables from .env file ---
 load_dotenv()
 
-def get_logger(name: str) -> logging.Logger: 
+def get_logger(name: str) -> logging.Logger:
+    """Return a consistently configured logger without duplicate handlers."""
     logger = logging.getLogger(name)
 
     if not logger.hasHandlers():
         handler = logging.StreamHandler(sys.stdout)
         handler.setFormatter(
-            logging.Formatter("%(asctime)s | %(name)-18s | %(levelname)-7s | %(message)s",
-                              datefmt="%H:%M:%S")
+            logging.Formatter(
+                "%(asctime)s | %(name)-18s | %(levelname)-7s | %(message)s",
+                datefmt="%H:%M:%S",
+            )
         )
         logger.addHandler(handler)
-    logger.setLevel(logging.INFO)
+
+    level_name = os.environ.get("LOG_LEVEL", "INFO").upper()
+    level = getattr(logging, level_name, logging.INFO)
+    if not isinstance(level, int):
+        level = logging.INFO
+
+    logger.setLevel(level)
+    logger.propagate = False
     return logger
 
 logger = get_logger("config")
