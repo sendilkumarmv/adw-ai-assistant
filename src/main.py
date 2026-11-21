@@ -1,11 +1,8 @@
 from config import get_logger
-from data import load_products
+from rag import build_vector_store
 
 def main():
-    logger = get_logger("main")
-    logger.info("ADW AI is running...")
-    products = load_products()
-    logger.info("Loaded %d products", len(products))
+    pass
 
 if __name__ == "__main__":
     main()

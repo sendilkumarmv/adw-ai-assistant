@@ -5,7 +5,7 @@ from typing import Any
 
 PRODUCTS_FILE = Path(__file__).resolve().parent.parent / "data" / "products_5000.json"
 
-
+# dict[str, Any] instead of just dict to enforce key is only string.
 def load_products() -> list[dict[str, Any]]:
     """Load product records from the workspace's products JSON file."""
     with PRODUCTS_FILE.open(encoding="utf-8") as file:
